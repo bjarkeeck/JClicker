@@ -164,7 +164,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(68, 13);
             this.label5.TabIndex = 10;
-            this.label5.Text = "Shortcut (F3)";
+            this.label5.Text = "Shortcut (F4)";
             // 
             // JClicker
             // 
@@ -183,6 +183,7 @@
             this.Controls.Add(this.label1);
             this.Name = "JClicker";
             this.Text = "JClicker";
+            this.Load += new System.EventHandler(this.JClicker_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numClickSpeed)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numDelay)).EndInit();
             this.ResumeLayout(false);

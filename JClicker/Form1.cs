@@ -40,8 +40,6 @@ namespace JClicker
             //mouse_event(MOUSEEVENTF_RIGHTUP, xpos, ypos, 0, 0);
         }
         #endregion
-
-
         private void mouseMove(MouseHook.MSLLHOOKSTRUCT mouseStruct)
         {
             mouseX = mouseStruct.pt.x;
@@ -74,7 +72,7 @@ namespace JClicker
 
         private void keyUp(KeyboardHook.VKeys key)
         {
-            if (key == KeyboardHook.VKeys.F3)
+            if (key == KeyboardHook.VKeys.F4)
             {
                 checkEnable.Checked = !checkEnable.Checked;
             }
@@ -131,6 +129,11 @@ namespace JClicker
                 }
 
             } while (true);
+        }
+
+        private void JClicker_Load(object sender, EventArgs e)
+        {
+
         }
 
 
