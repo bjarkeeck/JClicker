@@ -3,7 +3,7 @@ JClicker
 
 An Auto Clicker build for mindcraft
 
-![Screenshot](Screenshot.png)
+![Screenshot](/JClicker/Screenshot1.png)
 
 
 
