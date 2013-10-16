@@ -18,4 +18,4 @@ How it works
 
 Download
 ========
-[Download JClicker](/JClicker.exe)
+[Download JClicker](https://raw.github.com/bjarkeck/JClicker/master/JClicker.exe)
