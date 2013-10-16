@@ -18,4 +18,4 @@ How it works
 
 Download
 ========
-[Download JClicker](/JClicker/bin/Debug/JClicker.exe)
+[Download JClicker](/JClicker.exe)
