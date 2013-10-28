@@ -17,6 +17,9 @@ namespace JClicker
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new JClicker());
+       
+            //HEJ FRA JAKOB
+        
         }
     }
 }
